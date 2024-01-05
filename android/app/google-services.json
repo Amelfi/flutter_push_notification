@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1063095613482",
+    "project_id": "flutter-notificaciones-bf449",
+    "storage_bucket": "flutter-notificaciones-bf449.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063095613482:android:237a3b6a7d10fc73a72b53",
+        "android_client_info": {
+          "package_name": "com.amelfisantana.flutter_push_notify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlA5WwZhLTmUQFsjW21YGim8GVdwyV_rs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
